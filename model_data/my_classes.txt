@@ -1,0 +1,13 @@
+Truck-Flatbed
+MiniVan
+Sedan
+Suv
+Truck-Pickup
+Police
+Truck-Box-Med
+Taxi
+Truck-Box-Large
+Van
+Hatchback
+Bus
+Truck-Util
